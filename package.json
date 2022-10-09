@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rameshsinghppc/image_extract/issues"
   },
-  "homepage": "https://github.com/rameshsinghppc/image_extract#readme"
+  "homepage": "https://github.com/rameshsinghppc/image_extract#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
