@@ -1,0 +1,19 @@
+{
+  "name": "image_extract",
+  "version": "1.0.0",
+  "description": "Download Images from URLs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rameshsinghppc/image_extract.git"
+  },
+  "author": "Ramesh Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rameshsinghppc/image_extract/issues"
+  },
+  "homepage": "https://github.com/rameshsinghppc/image_extract#readme"
+}
